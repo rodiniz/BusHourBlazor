@@ -3,3 +3,5 @@ BlazorPortoBus/bin
 .vs
 BlazorPortoBus/obj
 BlazorPortoBus
+BlazorPortoBusTests/bin
+BlazorPortoBusTests/obj
